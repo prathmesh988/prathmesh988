@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://portfoliobyom.netlify.app/"><img src="https://github.com/omunite215/omunite215/blob/main/final%20profile.png?raw=true" height="400px"></a>
+  <a href="https://portfoliobyom.netlify.app/"><img src="final profile.png" height="400px"></a>
 </p>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Myself Om Patel</h1>
 <p align="center">
