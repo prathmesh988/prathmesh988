@@ -59,7 +59,7 @@
 <code><a href="https://reactnative.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 <br>
-<code>also interesting in IOT and other niecher things but that will not my main thing to learn it' just for myself😅</code>****
+<code>also interesting in IOT and other niecher things but that will not my main thing to learn it's just for to do some fun things  but my main focus is on cloud and devops after full stack 😅</code>
 </details>
 <br>
 
