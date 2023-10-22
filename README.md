@@ -56,7 +56,6 @@
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
-<code><a href="https://reactnative.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 <br>
 <code>also interesting in IOT and other niecher things but that will not my main thing to learn it's just for to do some fun things  but my main focus is on cloud and devops after full stack 😅</code>
@@ -100,5 +99,5 @@
   
   <br>
   
-<p align="right" > Created with 🧡 by <a href="https://github.com/omunite215">Prathmesh Gawade</a></p>
-<p align="right" > <img src="https://komarev.com/ghpvc/?username=omunite215&label=Profile%20views&color=0e75b6&style=flat" alt="omunite215" /> </p>
+<p align="right" > Created with 🧡 by <a href="https://github.com/prathmesh988">Prathmesh Gawade</a></p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=prathmesh988&label=Profile%views&color=0e75b6&style=flat" alt="omunite215" /> </p>
