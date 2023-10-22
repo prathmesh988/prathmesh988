@@ -80,21 +80,19 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/om-patel-401068143/">
+  <a href="https://www.linkedin.com/in/prathmesh-gawade-b46981277">
    <img align="left" alt=" Prathmesh Gawade | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="mailto:omunite21@gmail.com">
+  <a href="mailto:prathameahgawade41@gmail.com">
     <img align="left" alt="Prathmesh Gawade | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
-  <a href="https://www.instagram.com/_21omp/">
+  <a href="https://www.instagram.com/theslink_">
     <img align="left" alt="Prathmesh Gawade | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://github.com/omunite215">
+   <a href="https://github.com/prathmesh988">
     <img align="left" alt="Prathmesh Gawade | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <a href="https://portfoliobyom.netlify.app/">
-    <img align="left" alt="Prathmesh Gawade | Portfolio" width="26px" src="https://www.svgrepo.com/show/474386/internet.svg" />
-  </a>
+  
   <br>
   
 <p align="right" > Created with 🧡 by <a href="https://github.com/omunite215">Prathmesh Gawade</a></p>
