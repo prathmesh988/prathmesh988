@@ -14,7 +14,9 @@
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech Enthusiast since childhood.
-- 👯 
+- 👯 I also use linux for some fun like to do some experiments with my own system primarly i use manjaro as my secondary operating system and primary as windows i dualbooted my whole 
+      system for that.
+- 🧞 I enjoy tech so much  that im very interested in niecher things like to create your own ssh server etc to remote access in a LAN 😃😃  ****
 - 🔭 I’m currently working on Fullstack Web Development, Native Mobile Development.
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 - ⚡ Fun fact: I love Sports, especially Cricket.
