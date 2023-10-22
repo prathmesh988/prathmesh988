@@ -6,7 +6,7 @@
 <p align="center">
   <em>
     This is <b>Prathmesh Gawade</b>, a final year <b>Computer Science</b> undergraduate from <b>Indore institute of science and technolodgy</b>, Indore.
-    An aspiring &nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Clod and devops Enthusiast.</b> 
+    An aspiring &nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Cloud and devops Enthusiast.</b> 
   <br>
 
 </p>
@@ -51,12 +51,15 @@
   🌱 Looking forward to learn:
 </summary>
    <br>
+  
 <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
 <code><a href="https://www.tensorflow.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg"></a></code>
 <code><a href="https://reactnative.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
+<br>
+<code>also interesting in IOT and other niecher things but that will not my main thing to learn it' just for myself😅</code>****
 </details>
 <br>
 
