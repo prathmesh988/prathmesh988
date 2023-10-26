@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is <b>Prathmesh Gawade</b>, a final year <b>Computer Science</b> undergraduate from <b>Indore institute of science and technolodgy</b>, Indore.
+    This is <b>Prathmesh Gawade</b>, a first year <b>Computer Science</b> undergraduate from <b>IIST</b>, Indore.
     An aspiring &nbsp; <b>Full Stack Web Developer</b>&nbsp; and <b> Cloud and devops Enthusiast.</b> 
   <br>
 
